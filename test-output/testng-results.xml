@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-12T19:08:19 IST" name="Default suite" finished-at="2025-04-12T19:08:36 IST" duration-ms="16591">
+    <groups>
+    </groups>
+    <test started-at="2025-04-12T19:08:19 IST" name="Default test" finished-at="2025-04-12T19:08:36 IST" duration-ms="16591">
+      <class name="testCases.UserFlowTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.UserFlowTest@2aceadd4]" started-at="2025-04-12T19:08:19 IST" name="setup" finished-at="2025-04-12T19:08:24 IST" duration-ms="4931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickSignUp()[pri:1, instance:testCases.UserFlowTest@2aceadd4]" started-at="2025-04-12T19:08:24 IST" name="clickSignUp" finished-at="2025-04-12T19:08:24 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSignUp -->
+        <test-method signature="fillForm()[pri:2, instance:testCases.UserFlowTest@2aceadd4]" started-at="2025-04-12T19:08:24 IST" name="fillForm" finished-at="2025-04-12T19:08:28 IST" duration-ms="3746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method signature="signinTest()[pri:3, instance:testCases.UserFlowTest@2aceadd4]" started-at="2025-04-12T19:08:28 IST" name="signinTest" finished-at="2025-04-12T19:08:32 IST" duration-ms="3696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinTest -->
+        <test-method signature="crateNotes()[pri:4, instance:testCases.UserFlowTest@2aceadd4]" started-at="2025-04-12T19:08:32 IST" name="crateNotes" finished-at="2025-04-12T19:08:35 IST" duration-ms="3335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crateNotes -->
+        <test-method signature="logout()[pri:5, instance:testCases.UserFlowTest@2aceadd4]" started-at="2025-04-12T19:08:35 IST" name="logout" finished-at="2025-04-12T19:08:35 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.UserFlowTest@2aceadd4]" started-at="2025-04-12T19:08:35 IST" name="tearDown" finished-at="2025-04-12T19:08:36 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.UserFlowTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

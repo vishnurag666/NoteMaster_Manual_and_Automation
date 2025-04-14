@@ -6,6 +6,10 @@ This project demonstrates a comprehensive **functional testing approach** for th
 
 ---
 
+- **Project Explanation Video** : https://drive.google.com/file/d/1RF8ftMpGjHuNkucej3KPwDzpOGJDYTuU/view?usp=sharing
+ 
+
+
 ## 📌 Project Scope
 
 - 🔍 **Application Type**: Web Application (NoteMaster)

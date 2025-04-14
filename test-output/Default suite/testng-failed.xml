@@ -9,6 +9,7 @@
           <include name="setup"/>
           <include name="logout"/>
           <include name="crateNotes"/>
+          <include name="testTodo"/>
         </methods>
       </class> <!-- testCases.UserFlowTest -->
     </classes>

@@ -1,5 +1,6 @@
 package pageObjects;
 
+import org.apache.commons.lang3.RandomStringUtils;
 import org.jspecify.annotations.Nullable;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -56,7 +57,11 @@ public class SignupPage extends BasePage{
 		lnkSignin.click();
 	}
 	
-	
+	public String randomString() // It will give random Strings
+	{
+		String genaratedString=RandomStringUtils.randomAlphabetic(5);  //through this we can login with different email Id in each time
+		return genaratedString;
+	}
 	 
 	
 	
